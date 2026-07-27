@@ -6,3 +6,5 @@
 - 🎥 I’m building next: **Make wedding app's side project mobile!**
 
 - 💬 Ask me about **React, Next, Headless CMS, Javascript, Typescript, Node.js, Strapi**
+
+- <a href="https://www.toptal.com/developers/resume/sara-cela-alfonso#NJ09Rm">Hire me on Toptal</a>
